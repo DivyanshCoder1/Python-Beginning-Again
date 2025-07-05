@@ -1,0 +1,6 @@
+fr = open("PythonPracticeSheet-9\\this.txt", "r")
+content = fr.read()
+fr.close()
+fw = open("PythonPracticeSheet-9\\this(Copy).txt", "w")
+fw.write(content)
+fw.close()

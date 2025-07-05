@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Hunt",
+            "title": "125,000-year-old \u2018fat factory\u2019 run by Neanderthals discovered in Germany - CNN",
+            "description": "New research reveals the extraordinary lengths Stone Age humans went to in order to get fat on the menu.",
+            "url": "https://www.cnn.com/2025/07/04/science/neanderthal-fat-factory-germany",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/pressfig-03.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-07-04T14:16:00Z",
+            "content": "Stone Age humans living by a lake in whats now Germany systematically processed animal carcasses for fatty nutrients essentially running what scientists describe as a fat factory to boil bones on a v\u2026 [+5504 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News - Breaking News, Latest News and Videos",
+            "title": "Deadly storm slams New Jersey, hard-hit town cancels 4th of July celebration - ABC News - Breaking News, Latest News and Videos",
+            "description": null,
+            "url": "https://abcnews.go.com/US/deadly-storm-slams-new-jersey-hard-hit-town/story?id\\\\u003d123478390",
+            "urlToImage": null,
+            "publishedAt": "2025-07-04T13:52:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Democrats see Trump\u2019s big bill as key to their comeback. It may not be so easy - AP News",
+            "description": "President Donald Trump says his bill is big and beautiful. But Democratic leaders see the package as the key to their party's resurgence. Democratic officials are finalizing plans for dozens of rallies, voter registration drives, attack ads, bus tours and eve\u2026",
+            "url": "https://apnews.com/article/democrats-trump-big-beautiful-bill-politics-ce474a3f5c9cf79cff61b51d2bdfbaab",
+            "urlToImage": "https://dims.apnews.com/dims4/default/1ada2d9/2147483647/strip/true/crop/8054x4530+0+420/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F87%2F6160e3cb95105f3d6b0e0f4fc1de%2Fb226157278a04e8cae27c361550723d8",
+            "publishedAt": "2025-07-04T12:57:00Z",
+            "content": "WINDSOR HEIGHTS, Iowa (AP) It is big and it is beautiful, President Donald Trump says.\r\nBut for many Democratic leaders, the tax break and spending cut package passed by Trumps Republican allies in C\u2026 [+6791 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "GIADA ZAMPANO Associated Press, PAOLO SANTALUCIA Associated Press",
+            "title": "At least 25 people injured in Rome when gas station explodes - ABC News - Breaking News, Latest News and Videos",
+            "description": "A gas station explosion in southeastern Rome has injured at least 25 people including nine first responders who rushed to the scene",
+            "url": "https://abcnews.go.com/International/wireStory/gas-station-explodes-rome-injuring-9-responders-123475748",
+            "urlToImage": "https://i.abcnewsfe.com/a/f341d8e6-f9bd-4bf6-836c-ccd7519b2cb9/wirestory_4e0693b35b24831d5fe8cc0427e50e0d_16x9.jpg?w=1600",
+            "publishedAt": "2025-07-04T12:45:00Z",
+            "content": "ROME -- A gas station explosion early on Friday in southeastern Rome injured at least 25 people including nine police officers and a firefighter, local authorities and rescuers said.\r\nThe explosion w\u2026 [+2000 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Dozens of Palestinians killed by airstrikes or shootings while waiting for aid - AP News",
+            "description": "Israeli airstrikes killed 15 Palestinians in Gaza early on Friday, while a hospital said another 20 people died in shootings while waiting for aid. Meanwhile, the U.N. human rights office says it has recorded 613 killings in Gaza near humanitarian convoys and\u2026",
+            "url": "https://apnews.com/article/mideast-wars-gaza-aid-hamas-ceasefire-c263f8ecf5f432f2da2bcbbd0938c623",
+            "urlToImage": "https://dims.apnews.com/dims4/default/e273813/2147483647/strip/true/crop/7855x4418+0+409/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdd%2Fd0%2F301cf9d4a6d52e5ac6dbb893b817%2Fc72eeba4558d404e97c133c6bdec8145",
+            "publishedAt": "2025-07-04T12:39:00Z",
+            "content": "DEIR al-BALAH, Gaza Strip (AP) Israeli airstrikes killed 15 Palestinians in Gaza early on Friday, while a hospital said another 20 people died in shootings while waiting for aid.\r\nMeanwhile, the U.N.\u2026 [+4386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Two Arrested in Murder of OutKast Co-Founder Big Boi's Uncle - TMZ",
+            "description": "Outkast's Antwan \"Big Boi\" Patton lost a family member to senseless gun violence last month in Georgia -- and police have now made two arrests in the murder case.",
+            "url": "https://www.tmz.com/2025/07/04/outkast-founder-big-boi-uncle-dead-arrests-murder/",
+            "urlToImage": "https://imagez.tmz.com/image/af/16by9/2025/07/04/af3cdce2f2b6426598cf4ececf6bdf05_xl.jpg",
+            "publishedAt": "2025-07-04T12:27:49Z",
+            "content": "Outkast's Antwan \"Big Boi\" Patton lost a family member to senseless gun violence last month in Georgia -- and police have now made two arrests in the murder case.\r\nJabyrion Crumbley turned himself in\u2026 [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Todd Spangler",
+            "title": "Trump Says White House Will Host a UFC Championship Fight as Part of U.S.\u2019s 250th Anniversary Celebration - Variety",
+            "description": "The White House will be home to a top-ranked UFC mixed martial arts fight in 2026 as part of the America 250 celebration, President Donald Trump said.",
+            "url": "https://variety.com/2025/tv/news/trump-white-house-ufc-championship-fight-2026-america-250-1236447342/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2025/07/Donald-Trump-UFC-_-White-House.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2025-07-04T12:19:00Z",
+            "content": "In 2026, as part of festivities surrounding the 250th anniversary of the signing of the Declaration of Independence, the White House will be home to a top-ranked UFC mixed martial arts fight, Preside\u2026 [+2539 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ali McCadden",
+            "title": "Some international LGBTQ+ travelers pull back on U.S. trips: 'Why would I go there?' - CNBC",
+            "description": "Despite some pullbacks in corporate sponsorships, pride organizations across the U.S. said attendance is still strong.",
+            "url": "https://www.cnbc.com/2025/07/04/travel-pride-lgbtq-united-states.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108165702-1751287087805-gettyimages-2222113527-McGregor250629QueerLiberationMarch01.jpeg?v=1751478653&w=1920&h=1080",
+            "publishedAt": "2025-07-04T12:00:01Z",
+            "content": "Participants march in the Reclaim Pride Coalition's seventh annual Queer Liberation March in New York, June 29, 2025.\r\nCanadian citizen Robert Sharp was planning to visit Provincetown, Massachusetts \u2026 [+8869 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Angela Tricarico",
+            "title": "How to watch Joey Chestnut\u2019s return to Nathan\u2019s Hot Dog Eating Contest for free - New York Post",
+            "description": "A titan of the competition returns to the field this year.",
+            "url": "https://nypost.com/2025/07/04/sports/how-to-watch-the-2025-nathans-hot-dog-eating-contest-for-free/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/joey-chestnut.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-07-04T12:00:00Z",
+            "content": "New York Post may be compensated and/or receive an affiliate commission if you click or buy through our links. Featured pricing is subject to change.\r\nIt isn\u2019t July Fourth without hot dogs, but to be\u2026 [+5115 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "New Galaxy Z Fold 7 leaks may give first real look at Samsung\u2019s slimmer foldable - The Verge",
+            "description": "Samsung\u2019s upcoming Galaxy Z Fold 7 has been given the thinner, sleeker glow-up we expected, if leaked hands-on photos are any indication.",
+            "url": "https://www.theverge.com/news/698372/samsung-galaxy-z-fold-7-photo-leaks",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Galaxy-Z-Fold-7-hands-on-leak.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-07-04T11:56:52Z",
+            "content": "The latest Fold in the flesh, ahead of its expected launch at Unpacked next week.\r\nSamsungs upcoming Galaxy Z Fold 7 has been given the thinner, sleeker glow-up we expected, if leaked hands-on photos\u2026 [+1789 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Frances Vinall",
+            "title": "Madre Fire, California\u2019s biggest this year, surges to 52,000 acres - The Washington Post",
+            "description": "The fire sparked in the Los Padres National Forest in San Luis Obispo County and was growing exponentially, officials warned. The area is mostly uninhabited.",
+            "url": "https://www.washingtonpost.com/nation/2025/07/04/madre-fire-california/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NX2W53EUAYNW4EIIAIKCTAYIKA_size-normalized.jpg&w=1440",
+            "publishedAt": "2025-07-04T11:53:10Z",
+            "content": "A wildfire in California has grown to more than 52,000 acres since sparking on Wednesday, causing evacuation orders to be issued in San Luis Obispo County, about 120 miles northwest of Los Angeles.\r\n\u2026 [+1573 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sophie Kiderlin",
+            "title": "Trump's tariffs deadline is looming for Europe. Here's where things stand - CNBC",
+            "description": "The U.S. and the European Union have not yet struck a trade deal with just days to go before Trump's tariff reprieve is set to end.",
+            "url": "https://www.cnbc.com/2025/07/04/trumps-tariffs-deadline-is-looming-for-europe-heres-where-things-stand.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108167972-1751628546730-gettyimages-2221768520-US-WASHINGTON_DC-WHITE_HOUSE-TRUMP-SUPREME_COURT-RULING.jpeg?v=1751628582&w=1920&h=1080",
+            "publishedAt": "2025-07-04T11:05:51Z",
+            "content": "U.S. President Donald Trump attends a press conference at the White House in Washington, D.C., the United States, on June 27, 2025.\r\nAll eyes are on talks between the U.S. and the European Union, whi\u2026 [+3978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Leada Gore | lgore@al.com",
+            "title": "What\u2019s open, what\u2019s closed on July 4th? What grocery stores are open? Walmart, Costco, Target, more - AL.com",
+            "description": "On July 4th, Americans celebrate Independence Day and the country\u2019s 249th birthday.",
+            "url": "https://www.al.com/news/2025/07/whats-open-whats-closed-on-july-4th-what-grocery-stores-are-open-walmart-costco-target-more.html",
+            "urlToImage": "https://www.al.com/resizer/v2/SQQBJ7F42ZH5DLJUAHCR3K5DXQ.jpg?auth=473e4eb8614083f2ec447e5f62a552ec5fdd17143f5d2db9f4c30b2bdc9c9a76&width=1280&quality=90",
+            "publishedAt": "2025-07-04T11:00:00Z",
+            "content": "Happy birthday America!\r\nOn July 4th, Americans celebrate Independence Day and the countrys 249th birthday. \r\nThe federal holiday marks the day in 1776 when the Second Continental Congress unanimousl\u2026 [+1907 chars]"
+        }
+    ]
+}

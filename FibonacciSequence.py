@@ -7,8 +7,9 @@ def f(n):
         N = f(n-1) + f(n-2)
         return N
 # for calculation the whole sequence    
-for i in range(0, 100):
+
+user_number = int(input("Number of terms: "))
+for i in range(0, user_number):
     print(f(i), end=",")
 
 #for nth term
-print(f(100))
